@@ -1,4 +1,8 @@
 def osszeadas(a, b):
     return a + b
 
-print("Eredmény:", osszeadas(5, 3))
+def kivonas(a, b):
+    return a - b
+
+print("Összeadás:", osszeadas(5, 3))
+print("Kivonás:", kivonas(5, 3))
