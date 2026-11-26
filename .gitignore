@@ -1,0 +1,10 @@
+# Python ideiglenes fájlok
+__pycache__/
+*.pyc
+venv/
+
+# Titkos kulcsok
+.env
+
+# Ha a helyi VS Code skilleket sem akarod feltölteni:
+.agents/
