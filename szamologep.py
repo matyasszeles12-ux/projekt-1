@@ -11,3 +11,5 @@ def szorzas(a, b):
 print("Összeadás:", osszeadas(5, 3))
 print("Kivonás:", kivonas(5, 3))
 print("Szorzás:", szorzas(5, 3))
+
+#github teszt
